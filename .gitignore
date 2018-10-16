@@ -1,1 +1,4 @@
 .ipynb_checkpoints
+*.csv
+homeworks/homework2/*.npy
+*__pycache__*
